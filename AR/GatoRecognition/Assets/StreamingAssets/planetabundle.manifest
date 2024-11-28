@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 408729455
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 774d70c72a805d91805f27f0f2f53c20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f081bd197a156785ed7652109a36da7d
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 774d70c72a805d91805f27f0f2f53c20
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4a14b3e32f1ddfd408e83071da9a9ce2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a223398cdb54f4b9ed2f9435d8b63d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Solar System/Prefabs/Mercurio.prefab
+- Assets/Solar System/Prefabs/Jupiter.prefab
+- Assets/Solar System/Prefabs/Saturno.prefab
+- Assets/Solar System/Prefabs/Venus.prefab
+- Assets/Solar System/Prefabs/Neptuno.prefab
+- Assets/Solar System/Prefabs/Tierra.prefab
+- Assets/Solar System/Prefabs/Marte.prefab
+- Assets/Solar System/Prefabs/Urano.prefab
+- Assets/Solar System/Prefabs/Sol.prefab
+Dependencies: []
